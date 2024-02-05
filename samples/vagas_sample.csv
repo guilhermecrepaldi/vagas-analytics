@@ -1,0 +1,21 @@
+titulo,empresa,cidade,remoto,salario,tipo_contratacao,senioridade,data_publicacao,fonte,descricao
+Desenvolvedor Python Pleno,Nubank,São Paulo - SP,parcial,R$ 8.000 - R$ 12.000,CLT,Pleno,2025-03-10,LinkedIn,Vaga para desenvolvedor Python com foco em Django e FastAPI. Ira atuar com microservicos no banco digital.
+Engenheiro de Dados Sênior,Itaú,São Paulo - SP,nao,R$ 14.000 - R$ 18.000,CLT,Senior,2025-03-08,LinkedIn,Engenharia de dados com Python PySpark e AWS. Modelagem de pipelines de dados em larga escala.
+Backend Python Jr,FCamara,Campinas - SP,sim,R$ 3.500 - R$ 5.000,CLT,Júnior,2025-03-12,Gupy,Desenvolvimento backend com Flask e PostgreSQL. Consumo de APIs REST. Primeira experiencia em tecnologia.
+Desenvolvedor Django Pleno,Vinta,São Paulo - SP,sim,R$ 7.000 - R$ 9.000,PJ,Pleno,2025-03-05,GitHub Jobs,Vaga para desenvolvedor Django com conhecimento em REST API e Docker. Projetos internacionais.
+Analista de Dados Pleno,Magalu,São Paulo - SP,nao,R$ 6.000 - R$ 8.000,CLT,Pleno,2025-03-11,Gupy,Analise de dados com Python Pandas NumPy e SQL. Criacao de dashboards com Streamlit.
+Python Developer Senior,EBANX,Curitiba - PR,hibrido,R$ 12.000 - R$ 16.000,CLT,Senior,2025-02-28,LinkedIn,Desenvolvimento de plataforma de pagamentos com FastAPI e AWS. Times ageis e squads.
+Estagio em Python,Compass UOL,Porto Alegre - RS,nao,R$ 1.800 - R$ 2.200,Estágio,Estágio,2025-03-01,Gupy,Programa de estagio com foco em Python e banco de dados. Bolsa auxilio e beneficios.
+Desenvolvedor Python Pleno,PagSeguro,São Paulo - SP,hibrido,R$ 6.000 - R$ 9.000,CLT,Pleno,2025-03-09,LinkedIn,Atuacao com Django Celery e Redis. Microservicos no maior meio de pagamento do Brasil.
+Cientista de Dados,Soma Saúde,São Paulo - SP,nao,A combinar,CLT,Pleno,2025-03-07,Indeed,Modelagem de dados em saude com Python scikit-learn e TensorFlow. Machine Learning aplicado.
+Dev Python Pleno,Stone,Recife - PE,sim,R$ 8.000 - R$ 11.000,PJ,Pleno,2025-03-06,GitHub Jobs,Desenvolvimento backend Python com arquitetura de microservicos. Fintech em crescimento acelerado.
+Engenheiro de Machine Learning,Bosch,Campinas - SP,nao,R$ 10.000 - R$ 14.000,CLT,Senior,2025-02-25,LinkedIn,MLOps com Python PyTorch e Docker. Implantacao de modelos em producao na fabrica do futuro.
+Desenvolvedor Full Stack Python,AgroSmart,Ribeirão Preto - SP,sim,R$ 5.000 - R$ 7.000,PJ,Pleno,2025-03-04,Indeed,Vaga full stack com Django no backend e React no frontend. Agronegocio digital.
+Dev Python Júnior,Iteris,São Paulo - SP,hibrido,R$ 3.000 - R$ 4.500,CLT,Júnior,2025-03-13,Gupy,Desenvolvimento de sistemas para consultoria. Django e PostgreSQL. Treinamento interno incluso.
+Desenvolvedor Python Senior,QuintoAndar,São Paulo - SP,hibrido,R$ 15.000 - R$ 20.000,CLT,Senior,2025-02-20,LinkedIn,Plataforma de aluguel com Python FastAPI e Kubernetes. Times autonomous e squads multidisciplinares.
+Python Backend,OLX Brasil,São Paulo - SP,hibrido,R$ 9.000 - R$ 13.000,CLT,Pleno,2025-03-02,LinkedIn,Backend Python com GraphQL e MongoDB. Classificados online de grande escala.
+Engenheiro de Dados Pleno,Globo,Rio de Janeiro - RJ,nao,R$ 10.000 - R$ 14.000,CLT,Pleno,2025-02-22,Indeed,Pipelines de dados com Python Airflow e AWS. Dados de audiência e midia digital.
+Dev Python,VTEX,Rio de Janeiro - RJ,sim,R$ 7.500 - R$ 10.000,PJ,Pleno,2025-03-03,GitHub Jobs,Plataforma de e-commerce enterprise. Python Django REST API e CI/CD. Time distribuido.
+Analista de BI Pleno,Ambev,São Paulo - SP,nao,R$ 6.000 - R$ 8.000,CLT,Pleno,2025-02-18,LinkedIn,Analise de dados com Python SQL e Power BI. Insights para negocios de bebidas.
+Python Developer,TOTVS,São Paulo - SP,hibrido,R$ 7.000 - R$ 10.000,CLT,Pleno,2025-03-01,LinkedIn,Desenvolvimento de ERP com Python e banco de dados relacionais. Maior empresa de tecnologia do Brasil.
+Backend Python Sênior,Loggi,São Paulo - SP,hibrido,R$ 13.000 - R$ 17.000,CLT,Senior,2025-02-28,LinkedIn,Roteirizacao e logistica com Python FastAPI e Redis. Impacto em milhares de entregas por dia.
